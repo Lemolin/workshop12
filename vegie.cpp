@@ -28,7 +28,7 @@ vegie::vegie(string n, int v) :animal(n, v) {
 
 // Define the member functions.
 
-string vegie::getFavourite() {
+string vegie::get_favourite_food() {
 
 
 
@@ -48,7 +48,7 @@ string vegie::get_name() {
 
 
 
-void vegie::setFavourite(string f) {
+void vegie::set_favourite_food(string f) {
 
 
 
