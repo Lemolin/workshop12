@@ -45,9 +45,9 @@ public:
 
 	// Declare the member functions.
 
-	string getFavourite();
+	string get_favourite_food();
 
-	void setFavourite(string n);
+	void set_favourite_food(string n);
 
 	string get_name();
 
