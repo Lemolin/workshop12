@@ -50,7 +50,7 @@ public:
 
 	string get_name();
 
-	int get_kill();
+	int get_kills();
 
 	void set_kill(int k);
 
