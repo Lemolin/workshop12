@@ -52,7 +52,7 @@ public:
 
 	int get_kills();
 
-	void set_kill(int k);
+	void set_kills(int k);
 
 };
 
