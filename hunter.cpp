@@ -38,7 +38,7 @@ int hunter::get_kills() {
 
 
 
-void hunter::set_kill(int k) {
+void hunter::set_kills(int k) {
 
 
 
