@@ -28,7 +28,7 @@ hunter::hunter(string n, int v) :animal(n, v) {
 
 // Define the member functions.
 
-int hunter::get_kill() {
+int hunter::get_kills() {
 
 
 
